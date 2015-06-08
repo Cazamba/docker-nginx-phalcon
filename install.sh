@@ -11,4 +11,4 @@ git clone https://github.com/Cazamba/docker-nginx-phalcon.git
 
 cd ./docker-nginx-phalcon
 
-crane lift
+/usr/local/bin/crane lift
